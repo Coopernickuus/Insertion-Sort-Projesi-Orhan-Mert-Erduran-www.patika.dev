@@ -20,9 +20,6 @@ Best Case: O(n)
 
 3.Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
-4."Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız."
+4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 Dizinin son hali [2,6,16,18,22,27] ve18 sayısı ortadaki değer. Average Case.
-
-
-www.patika.dev
